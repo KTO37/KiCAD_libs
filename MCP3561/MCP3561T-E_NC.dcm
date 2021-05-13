@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP3561T-E_NC
+D Microchip Technology, MCP3561T-E/NC
+K
+F http://ww1.microchip.com/downloads/en/DeviceDoc/MCP3561-1-2-4-Data-Sheet-20006181A.pdf
+$ENDCMP
+#
+#End Doc Library

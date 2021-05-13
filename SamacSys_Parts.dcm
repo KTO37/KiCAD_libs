@@ -1,5 +1,14 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ADA4896-2
+F https://www.ti.com/lit/ds/symlink/opa2211-ep.pdf?ts=1607688603177&ref_url=https%253A%252F%252Fwww.google.com%252F
+$ENDCMP
+#
+$CMP MCP3561T-E_NC
+D Microchip Technology, MCP3561T-E/NC
+F http://ww1.microchip.com/downloads/en/DeviceDoc/MCP3561-1-2-4-Data-Sheet-20006181A.pdf
+$ENDCMP
+#
 $CMP NE555DR
 D Single Precision Timer
 F http://www.ti.com/lit/ds/symlink/ne555.pdf
