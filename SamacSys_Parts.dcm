@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 2V5_REF
+D Power symbol creates a global label with name "Vdrive"
+K power-flag
+$ENDCMP
+#
 $CMP ADA4896-2
 F https://www.ti.com/lit/ds/symlink/opa2211-ep.pdf?ts=1607688603177&ref_url=https%253A%252F%252Fwww.google.com%252F
 $ENDCMP
